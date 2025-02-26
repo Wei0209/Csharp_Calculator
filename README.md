@@ -6,8 +6,3 @@
 
 
 ### 當除數為0會跳出警告視窗
-
-
-# PHA_YOLO
-## prepare datasets
-### Go to rvlab NAS to find lab members/PHA_YOLO dataset download
